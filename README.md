@@ -1,8 +1,8 @@
 # Self-Supervised Radar Signal Recognition
 
-This repo contains radar datasets accompanying the paper "Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation", submitted to the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). 
+This repo contains radar datasets accompanying the paper "Few-Shot Radar Signal Recognition through Self-Supervised Learning and Radio Frequency Domain Adaptation", submitted to the IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2025.
 
-We will release a preview of our paper soon. Stay tuned for updates.
+We will release a preview of our paper soon. Please stay tuned for updates.
 
 ## Overview
 
